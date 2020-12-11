@@ -1,10 +1,11 @@
+#include<windows.h>
 #include <cstdio>
 #include <cstdio>
 #include<GL/gl.h>
 #include <GL/glut.h>
 #include<math.h>
 #include<iostream>
-#include <windows.h>
+
 
 using namespace std;
 GLuint textureID[6];
